@@ -26,5 +26,3 @@ def import_from_csv():
 
     logger.info(f"end import from file")
     file.close()
-
-    # print(f"Импорт завершен")
